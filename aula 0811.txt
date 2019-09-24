@@ -1,0 +1,8 @@
+const char* payload = statusLED ? "VOL_UP" : "VOLDOWN" : "CANAL_UP" : "CANAL_DOWN" ;
+
+
+https://www.filipeflop.com/produto/sensor-de-temperatura-lm35dz/
+
+https://www.filipeflop.com/produto/motor-solar-mini-300-3-5v/
+
+https://www.filipeflop.com/?s=ponte+h&post_type=product
